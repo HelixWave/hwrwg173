@@ -1,0 +1,4 @@
+<configs>
+ <!-- Decrease likliehood of invisibleAnimal -->
+<set xpath="/entitygroups/entitygroup[@name='FriendlyAnimalsForest']/entity[@name='invisibleAnimal']/@prob">1</set>
+</configs>
